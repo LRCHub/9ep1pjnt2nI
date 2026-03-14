@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "When You're Gone",
+  "base_artist": "Avril Lavigne",
+  "createdAt": "2026-03-14T05:05:21.250844Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "You Know I'll Miss You When You're Gone",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/01_You_Know_I'll_Miss_You_When_You're_Gone_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "When You're Gone - Live",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/02_When_You're_Gone_-_Live_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "When You're Gone",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/03_When_You're_Gone_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "When You’re Gone",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/04_When_You’re_Gone_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "When You're Gone - Live In Madrid",
+      "artist": "The Cranberries",
+      "has_synced": false,
+      "path": "select/05_When_You're_Gone_-_Live_In_Madrid_The_Cranberries.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "When You're Gone",
+      "artist": "The Cranberries",
+      "has_synced": true,
+      "path": "select/06_When_You're_Gone_The_Cranberries.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "When You're Gone",
+      "artist": "Crippled Black Phoenix",
+      "has_synced": true,
+      "path": "select/07_When_You're_Gone_Crippled_Black_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "When You're Gone",
+      "artist": "Paloma Faith",
+      "has_synced": false,
+      "path": "select/08_When_You're_Gone_Paloma_Faith.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What Will I Say When You're Gone?",
+      "artist": "Erasure",
+      "has_synced": true,
+      "path": "select/09_What_Will_I_Say_When_You're_Gone_Erasure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "When You're Gone",
+      "artist": "Bryan Adams feat. Melanie C",
+      "has_synced": true,
+      "path": "select/10_When_You're_Gone_Bryan_Adams_feat._Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "01 When You're Gone",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/11_01_When_You're_Gone_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When You're Gone (Live)",
+      "artist": "Melanie C feat. Bryan Adams",
+      "has_synced": true,
+      "path": "select/12_When_You're_Gone_(Live)_Melanie_C_feat._Bryan_Adams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "03 When You're Gone (Bryan Solo Version)",
+      "artist": "Melanie C",
+      "has_synced": true,
+      "path": "select/13_03_When_You're_Gone_(Bryan_Solo_Version)_Melanie_C.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "03 When You're Gone (Live) Bryan Adams & Melanie C",
+      "artist": "Melanie C",
+      "has_synced": false,
+      "path": "select/14_03_When_You're_Gone_(Live)_Bryan_Adams_&_Melanie_C_Melanie_C.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "When You're Gone",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/15_When_You're_Gone_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "When You're Gone",
+      "artist": "Avril Lavigne",
+      "has_synced": false,
+      "path": "select/pl_01_When_You're_Gone_Avril_Lavigne.txt"
+    }
+  ]
+}
