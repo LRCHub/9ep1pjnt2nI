@@ -1,0 +1,50 @@
+# Avril Lavigne – When You're Gone
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:16.92] I always needed time on my own
+[00:22.07] I never thought I'd need you there when I cry
+[00:30.32] And the days feel like years when I'm alone
+[00:35.26] And the bed where you lie is made up on your side
+[00:59.76] 
+[00:43.80] When you walk away, I count the steps that you take
+[00:50.57] Do you see how much I need you right now?
+[01:11.07] 
+[00:56.43] When you're gone, the pieces of my heart are missing you
+[01:03.26] When you're gone, the face I came to know is missing too
+[01:09.97] When you're gone, the words I need to hear
+[01:14.21] To always get me through the day
+[01:19.39] And make it okay
+[01:23.53] I miss you
+[01:28.53] 
+[01:38.12] I've never felt this way before
+[01:43.07] Everything that I do reminds me of you
+[01:51.42] And the clothes you left, they lie on the floor
+[01:56.33] And they smell just like you
+[01:59.74] I love the things that you do
+[02:14.24] 
+[02:04.83] When you walk away, I count the steps that you take
+[02:11.70] Do you see how much I need you right now?
+[02:32.20] 
+[02:18.20] When you're gone, the pieces of my heart are missing you
+[02:24.40] When you're gone, the face I came to know is missing too
+[02:30.96] And when you're gone, the words I need to hear
+[02:35.36] To always get me through the day
+[02:40.74] And make it okay
+[02:44.55] I miss you
+[02:49.55] 
+[02:46.74] We were made for each other
+[02:51.02] Out here forever
+[02:54.37] I know we were, yeah-yeah
+[02:59.38] And all I ever wanted was for you to know
+[03:02.70] Everything I do, I give my heart and soul
+[03:06.34] I can hardly breathe, I need to feel you here with me, yeah
+[03:35.84] 
+[03:12.21] When you're gone, the pieces of my heart are missing you
+[03:18.08] When you're gone, the face I came to know is missing too
+[03:25.17] When you're gone, the words I need to hear
+[03:29.58] Will always get me through the day
+[03:34.88] And make it okay
+[03:38.83] I miss you, mmm
+```
